@@ -9,11 +9,11 @@
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>토닥토닥</string>
+	<string>날씨</string>
 	<key>CFBundleName</key>
-	<string>todaktodak</string>
+	<string>weather</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.8ind.todaktodak</string>
+	<string>com.8ind.weather</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>앱이 백그라운드에서도 위치 정보를 사용합니다.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>

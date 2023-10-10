@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+	<string></string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleDisplayName</key>
+	<string>토닥토닥</string>
+	<key>CFBundleName</key>
+	<string>todaktodak</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.8ind.todaktodak</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>앱이 백그라운드에서도 위치 정보를 사용합니다.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>앱이 전면 및 백그라운드에서 위치 정보를 사용합니다.</string>
+</dict>
+</plist>
